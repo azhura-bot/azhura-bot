@@ -15,13 +15,13 @@
 
 <p>
   <a href="https://github.com/azhura-bot">
-    <img src="https://img.shields.io/badge/GitHub-azhura--bot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/github.com%2Fazhura--bot-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://naufalspo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-naufalspo.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/naufalspo.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://instagram.com/la_fapho">
-    <img src="https://img.shields.io/badge/Instagram-@la_fapho-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/%40la__fapho-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
