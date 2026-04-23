@@ -84,18 +84,20 @@ I am **Muhammad Naufal Sutardi**, currently focused on growing as a modern web d
 
 ---
 
-## Collaboration
-
-I am always open to discussion, feedback, and project collaboration.
-
-- GitHub: **[github.com/azhura-bot](https://github.com/azhura-bot)**
-- Portfolio: **[naufalspo.vercel.app](https://naufalspo.vercel.app/)**
-- Instagram: **[@la_fapho](https://instagram.com/la_fapho)**
-
----
-
 <div align="center">
 
 "Keep building. Keep learning. Keep improving."
+
+<p>
+  <a href="https://github.com/azhura-bot">
+    <img src="https://img.shields.io/badge/github.com%2Fazhura--bot-6e7781?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://naufalspo.vercel.app/">
+    <img src="https://img.shields.io/badge/naufalspo.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://instagram.com/la_fapho">
+    <img src="https://img.shields.io/badge/%40la__fapho-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 </div>
